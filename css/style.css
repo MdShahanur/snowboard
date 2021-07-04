@@ -1,0 +1,302 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    100%
+}
+/*header part start start*/
+.jequery_nav{
+    min-height: 100px;    
+    background-color: rgb(8, 8, 8)
+}
+.nav_content ul li a{
+    color: white !important;
+    text-transform: uppercase;
+    color: white;
+    font-size: 15pt;
+    font-weight: 500;
+}
+.shahanur_pic a img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+.dropdown-item{
+    background-color: blue;
+    text-align: center;
+    border-radius: 20px;
+   
+}
+.dropdown-menu{
+    background-color: transparent;
+    border: none;
+}
+.toggle_icon{
+    color: white;
+}
+.w-100{
+    height: 90vh;
+}
+.carosel_row{
+    height: 90vh;
+}
+/*banner part start*/
+.banner{
+    background-image: url(../images/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;  
+}
+
+.banner_img{
+   height: 600px;
+}
+.h1, h1 {
+    font-size: 75px;
+    color: white;}
+
+    .btn-secondary{
+        
+background-color: black;
+        
+margin-right: 15%;
+    }
+
+/*banner part end*/
+
+
+/*banner_2 part start*/
+ .banner_2{
+     background-image: url(../images/1.png);
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: center;
+     min-height: 100vh;
+     margin-top: 100px;
+ }
+.snowbording{
+    min-height: 100vh;
+
+}
+.mountain{
+
+}
+.mountain h4{
+    color: #fff;
+    font-size: 45px;
+    
+}
+.mountain p{
+
+color: #fff;
+
+font-size: 15px;
+
+margin: 50px 0px;
+}
+ /*banner_2 part end*/
+
+
+/*featurt part start*/
+.features_content h2{
+font-size: 48px;
+color: #000000;
+}
+.features_content i{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+.features{
+
+padding: 80px 0px;
+}
+
+/*feature part end*/
+
+
+
+
+ 
+ /*footer part start*/
+ 
+ .footer{
+     background-color: #000000;
+     padding: 45px 0px;
+}
+.footer_row{
+    
+}
+.footer h6{
+
+color: #fff;
+
+font-size: 17px;
+
+margin-bottom: 30px;
+}
+
+
+.footer ul li a i{
+   
+}
+.footer p{
+   
+color: #fff;
+   
+font-size: 14px;
+   
+line-height: 35px;
+
+   
+margin-top: 30px;
+}
+.footer-icon{
+
+
+margin-top: 45px;
+
+width: 100%;
+}
+.footer-icon a{
+
+color: wheat;
+
+padding: 0px 64px;
+
+font-size: 21px;
+
+padding: 4px 4px;
+}
+.footer-icon a i{
+
+}
+.footer_lower_conrent{
+    
+margin-top: 50px;
+}
+.l_p p{
+    margin: 0px;
+
+}
+.input-group-append {
+    height: fit-content;
+}
+
+    .input-group{
+          
+    }
+    .footer-icon{
+        
+    }
+    .text-right a{
+        color: #fff;
+    }
+
+/*footer part end*/
+
+
+/*snowboard part start*/
+
+.snowboard_carosel{
+    
+}
+.carousel_img{
+    height: 500px;
+  
+   
+}
+.carousel_img img{
+    width: 100%;
+
+}
+.snowboard_h2 h2{
+
+font-size: 48px;
+
+text-transform: uppercase;
+
+margin-top: 50px;
+}
+.snowboard_h2 p{
+
+font-size: 14px;
+
+margin: 20px 0px;
+}
+.icon i{
+
+font-size: 50px;
+
+margin-top: 10px;
+}
+.h3 h3{
+
+font-size: 24px;
+
+margin-top: 45px;
+
+}   
+.carousel-control-next-icon, .carousel-control-prev-icon {    
+    width: 100px;
+    height: 100px;   
+}
+/*snowboard part end*/
+
+.animation h1{
+    color: tomato;
+}
+/*jequery part start*/
+.banner_img_1 img{
+    /* height: 800px; */
+    width: 100%;
+}
+/*tilted animation part start*/
+.tilted{
+
+}
+
+.tilted_container{
+
+}
+
+
+.page1 img{
+   
+ height: 550px;
+   
+width: 100%;
+}
+
+.page2 img{
+   
+height: 550px;
+   
+width: 100%;
+}
+.last-page img{
+   
+height: 550px;
+   
+width: 100%;
+}
+.row_height{
+   
+}
+.h2, h2 {    
+    padding: 30px 0;
+font-size: 40pt;}
+p{
+    margin: 30px 0px;
+    text-align: left;
+    font-size: 16pt;
+    color: rgb(153, 150, 150);
+}
+.tps-wrapper {
+    height:600px;
+}
+
+
+
